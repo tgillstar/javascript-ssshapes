@@ -10,7 +10,7 @@ This object can be called using the 'SSShapes' or '_SSS' keywords. Then use the 
 
 A SSShapes object constructor call looks something like this:          
 
-** _SSS('shape-name',dimension1,dimension2,'color-name-or-hex-number','direction-OPTIONAL') **
+* _SSS('shape-name',dimension1,dimension2,'color-name-or-hex-number','direction-OPTIONAL') 
 
 The SSShapes.js is commented so check it out for more details but here are a few things to note.
 
